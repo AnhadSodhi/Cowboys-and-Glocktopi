@@ -8,7 +8,8 @@ This is the very first game that I created using Pygame, to demonstrate my skill
 My overall score (grade) in the coding workshop was #1/90 🏆.
 
 ## Usage instructions
-* Pygame must be installed
+* Python and Pygame must be installed
+* Download the latest release
 * Run Game.py
 * Move with WASD
 * Shoot with the mouse

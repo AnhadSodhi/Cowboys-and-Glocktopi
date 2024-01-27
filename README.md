@@ -1,5 +1,5 @@
 # Cowboys-and-Glocktopi
-Final project submission for the Schulich Ignite Flare Advanced coding workshop, April 2022
+A top-down shooter game using Python and Pygame.
 
 ## Purpose
 This is the very first game that I created using Pygame, to demonstrate my skills.

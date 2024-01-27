@@ -9,7 +9,7 @@ My overall score (grade) in the coding workshop was #1/90 🏆.
 
 ## Usage instructions
 * Python and Pygame must be installed
-* Download the latest release
+* Download and extract the latest release .zip to a folder of your choice
 * Run Game.py
 * Move with WASD
 * Shoot with the mouse

@@ -16,8 +16,6 @@ from torch import Torch
 from youdied import EndScreen
 from youwon import WinScreen
 
-os.chdir("Final Project")
-
 """
 SETUP section - preparing everything before the main loop runs
 """

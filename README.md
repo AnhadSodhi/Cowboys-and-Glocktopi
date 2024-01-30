@@ -1,6 +1,6 @@
-# Cowboys-and-Glocktopi
+# Cowboys-and-Glocktopi 🤠🐙
 A top-down shooter game using Python and Pygame.
-![image](https://github.com/AnhadSodhi/Cowboys-and-Glocktopi/assets/96636073/1886e5e5-99c5-41e5-8bc4-14424503cbcb)
+![CowboysandGlocktopiGIF](https://github.com/AnhadSodhi/Cowboys-and-Glocktopi/assets/96636073/b3a624c2-f4f9-4ea0-ba36-8ca7fb340923)
 
 
 ## Purpose
